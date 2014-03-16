@@ -1,4 +1,5 @@
-KIRK
-====
 
-Knowledgable, Intellegant, and Reliable Kirkbot
+Knowledgable
+Intelligent, and 
+Reliable 
+Kirkbot
